@@ -1,0 +1,2 @@
+gcc -o problema_1 problema_1.c
+./problema_1
